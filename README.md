@@ -1,0 +1,2 @@
+# Machine-Learning-Model-Selection-
+We may have a dataset for which we are interested in developing a classification or regression predictive model. We do not know beforehand as to which model will perform best on this problem, as it is unknowable. Therefore, we fit and evaluate a suite of different models on the problem.  Model selection is the process of choosing one of the models as the final model that addresses the problem.
